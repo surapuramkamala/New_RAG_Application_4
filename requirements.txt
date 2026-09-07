@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-dotenv
+ollama
+faiss-cpu
+numpy
+pandas
+pypdf
+python-docx
+openpyxl
+rank-bm25
+pydantic
